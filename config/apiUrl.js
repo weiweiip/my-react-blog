@@ -1,4 +1,4 @@
-let ipUrl = 'http://81.70.12.110:7001/default/'
+let ipUrl = 'http://www.jswei.top:7001/default/'
 
 let servicePath = {
   getArticleList: ipUrl + 'getArticleList',  //  首页文章列表接口

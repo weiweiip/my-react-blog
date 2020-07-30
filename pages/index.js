@@ -54,8 +54,11 @@ const Home = (list) => {
     <>
 
       <Head>
+        <meta name="keywords" content="前端,博客,技术威,jswei,web,javascript,html,css" />
+        <meta name="description" content="前端个人博客,技术威前端个人博客,jswei前端个人博客,分享前端技术" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"></link>
-        <title>首页</title>
+
+        <title>首页 | 技术威web前端技术博客</title>
       </Head>
       <Header />
       <Row className="comm-main" type="flex" justify="center">
