@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "highlight.js": "^10.1.2",
     "lodash": "^4.17.19",
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "next": "9.4.4",
     "particles-bg": "^2.5.0",
     "react": "16.13.1",
